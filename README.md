@@ -29,7 +29,7 @@ Choose a Menu Category: The program will show you a list of categories. Type the
 - What Meals item would you like to order please?
     1. Burrito - $4.49
     2. Teriyaki Chicken - $9.99
-...
+    
 Please type in the menu number desired: 1
 
 4. Enter Quantity: Specify how many of that item you want.
@@ -73,7 +73,8 @@ Burrito                   | $4.49  | 2
 Total cost: $8.98
 Thank you for placing your order with us today!
 
-
+Conclusion
+Enjoy using the Sando's International Food Truck ordering system!
 
 
 
